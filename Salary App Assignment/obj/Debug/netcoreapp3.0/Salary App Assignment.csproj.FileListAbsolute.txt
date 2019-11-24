@@ -1,0 +1,11 @@
+F:\Projects\Rider Projects\Salary-App-Assignment\Salary App Assignment\bin\Debug\netcoreapp3.0\Salary App Assignment.exe
+F:\Projects\Rider Projects\Salary-App-Assignment\Salary App Assignment\bin\Debug\netcoreapp3.0\Salary App Assignment.deps.json
+F:\Projects\Rider Projects\Salary-App-Assignment\Salary App Assignment\bin\Debug\netcoreapp3.0\Salary App Assignment.runtimeconfig.json
+F:\Projects\Rider Projects\Salary-App-Assignment\Salary App Assignment\bin\Debug\netcoreapp3.0\Salary App Assignment.runtimeconfig.dev.json
+F:\Projects\Rider Projects\Salary-App-Assignment\Salary App Assignment\bin\Debug\netcoreapp3.0\Salary App Assignment.dll
+F:\Projects\Rider Projects\Salary-App-Assignment\Salary App Assignment\bin\Debug\netcoreapp3.0\Salary App Assignment.pdb
+F:\Projects\Rider Projects\Salary-App-Assignment\Salary App Assignment\obj\Debug\netcoreapp3.0\Salary App Assignment.csprojAssemblyReference.cache
+F:\Projects\Rider Projects\Salary-App-Assignment\Salary App Assignment\obj\Debug\netcoreapp3.0\Salary App Assignment.AssemblyInfoInputs.cache
+F:\Projects\Rider Projects\Salary-App-Assignment\Salary App Assignment\obj\Debug\netcoreapp3.0\Salary App Assignment.AssemblyInfo.cs
+F:\Projects\Rider Projects\Salary-App-Assignment\Salary App Assignment\obj\Debug\netcoreapp3.0\Salary App Assignment.dll
+F:\Projects\Rider Projects\Salary-App-Assignment\Salary App Assignment\obj\Debug\netcoreapp3.0\Salary App Assignment.pdb

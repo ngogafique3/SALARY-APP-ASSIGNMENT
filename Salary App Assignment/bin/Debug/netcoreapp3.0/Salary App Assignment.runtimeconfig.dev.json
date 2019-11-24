@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\IR~SAGE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\IR~SAGE\\.nuget\\packages"
+    ]
+  }
+}
